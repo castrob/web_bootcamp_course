@@ -1,0 +1,29 @@
+/*Star*/
+/*tudo*/
+*{
+    border: 1px solid blue;
+}
+
+/*Descendant Selector*/
+/*tudo que tem "dentro" do primeiro selector*/
+li a{
+    color: red;
+}
+
+/*Adjacent Selector*/
+/*tudo que tem depois do primeiro selector*/
+h4 + ul{
+    border: 4px solid red;
+}
+
+/*Attribute Selector*/
+/*tudo que tem o atributo especificado do selector*/
+a[href="http://www.google.com"]{
+    background:blue;
+}
+
+/*nth of type*/
+
+ul:nth-of-type(3){
+    background: purple;
+}

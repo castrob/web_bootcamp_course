@@ -1,0 +1,18 @@
+/*Joao Paulo de Castro Bento Pereira*/
+h1{
+    color: #FF0000;
+    border-color: #0000FF;
+    border-width: 5px;
+    border-style:solid;
+    /*border: 8px dashed rgba(00,00,255,0.4);*/
+}
+
+li{
+    color: rgba(0,200,100,.6);
+}
+
+body{
+    background: url("http://hdqwalls.com/wallpapers/mr-robot-4-4k.jpg");
+    background-repeat: no-repeat;
+    background-size: auto 1080px;
+}

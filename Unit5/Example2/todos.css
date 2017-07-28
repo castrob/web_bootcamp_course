@@ -1,0 +1,12 @@
+body{
+    background: #0000FF;
+}
+
+#important{
+    border-width: 10px;
+ background: url("https://upload.wikimedia.org/wikipedia/commons/4/4b/Mr._Robot_Logo.svg");
+}
+
+.completed{
+    text-decoration: line-through;
+}

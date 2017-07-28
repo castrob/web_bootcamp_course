@@ -1,0 +1,29 @@
+/*Type Selectors*/
+
+ul{
+    color: purple;
+}
+
+body{
+    color:red
+}
+
+li{
+    color:orange
+}
+
+/*Class, Attribute, and Pseudo-Class Selectors*/
+
+.highlight{
+    color:red;
+}
+li:hover{
+    color:pink;
+    transition-delay: 1s;
+}
+/*ID Selectors*/
+
+#special{
+    color:black;
+}
+

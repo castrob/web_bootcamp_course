@@ -1,0 +1,29 @@
+/*Joao Paulo de Castro Bento Pereira*/
+*{
+    font-family: Source Sans Pro;
+}
+body{
+    border: 20px rgba(128, 128, 128, 0.42) solid;
+    margin:  1% 20%;
+    padding: 20px
+}
+
+.firstparagraph {
+    border-left: 5px rgba(128, 128, 128, 0.42) solid;
+    padding-left: 5px;
+}
+
+hr{
+    border-color: rgba(128, 128, 128, 0.2);
+}
+.date {
+    text-transform: uppercase;
+    color: #0359ec;
+    letter-spacing: 2px;
+    margin:0;
+}
+
+h1{
+    color: #123456;
+    font-weight: 700;
+}
