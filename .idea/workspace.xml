@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f813d5a-a759-40a7-8033-f951656c0294" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit3/Tasks/Kitten.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit3/Tasks/Things_Ive_Learned.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit3/firstPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit4/Forms/forms.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit4/Forms/inputs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit4/Tables/PokemonTable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit4/Tables/Table.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit4/Tasks/Registration Form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit5/Example1/castro.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit5/Example1/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit5/Example2/todoList.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit5/Example2/todos.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit5/Example3/selectors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit5/Example3/selectors.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit5/Example4/specificity.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit5/Example4/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit5/Tasks/selectors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit5/Tasks/selectorsExercise.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit6/Project_BlogPage/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit6/Project_BlogPage/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit6/Project_PhotoGallery/imageLinks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit6/Project_PhotoGallery/imagegrid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit6/Project_PhotoGallery/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit6/Project_TicTacToe/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unit6/Project_TicTacToe/tictactoe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web_bootcamp_course.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="0f813d5a-a759-40a7-8033-f951656c0294" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,31 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="firstPage.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit3/firstPage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -255,12 +203,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501241525937</updated>
-      <workItem from="1501241529321" duration="997000" />
+      <workItem from="1501241529321" duration="1085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="997000" />
+    <option name="totallyTimeSpent" value="1085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1372" height="746" extended-state="6" />
@@ -308,22 +256,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Unit3/firstPage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
