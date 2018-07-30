@@ -1,5 +1,7 @@
 body {
     background-color: #232323;
+    margin: 0;
+    font-family: "Montserrat", "Avenir", sans-serif;
 }
 
 .square {
@@ -8,33 +10,68 @@ body {
     margin: 1.66%;
     float: left;
     padding-top: 30%;
+    border-radius: 15%;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+#rgbField {
+    font-size: 200%;
 }
 
 #container {
     max-width: 600px;
-    margin: 0 auto;
+    margin: 20px auto;
 }
 h1 {
     color: white;
+    line-height: 1.1;
+    text-align: center;
+    padding: 20px 0;
+    font-weight: normal;
+    text-transform: uppercase;
+    background: steelblue;
+    margin: 0;
 }
 
+
+#message {
+    display: inline-block;
+    width: 20%;
+}
 button {
-    background-color: white;
-    border: transparent;
+    background: none;
+    border: none;
     height: 100%;
-    text-decoration-color: blue;
+    text-transform: uppercase;
+    color: steelblue;
+    font-size: inherit;
+    font-weight: 700;
+    letter-spacing: 1px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
 }
 #stripe {
     background-color: white;
     height: 30px;
     text-align: center;
-
 }
 
 #easy {
     margin-left: 0;
 }
 .selected{
-    background-color: blue;
-    text-decoration-color: white;
+    background: steelblue;
+    color: white;
+}
+
+button:hover {
+    background: steelblue;
+    color: white;
 }

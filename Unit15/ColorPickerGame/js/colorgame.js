@@ -48,7 +48,7 @@ function startNewGame(gameDifficulty) {
     colorPicked = colors[Math.floor(Math.random() * colors.length)];
     rgbField.textContent = colorPicked;
     buttonNewGame.textContent = "New Game";
-    h1.style['background-color'] = "#232323";
+    h1.style['background-color'] = "steelblue";
     message.textContent = "";
 
     for( var i = 0; i < squares.length; i++){
